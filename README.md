@@ -84,17 +84,20 @@ Y= A⊕B
  ```
 **Logic symbol & Truthtable**
 
-![111](https://github.com/user-attachments/assets/03daee97-c52c-4854-8902-bccd3950e725)
+![111](https://github.com/user-attachments/assets/174c7ef9-f5a0-4d37-befa-0c281de52b18)
 
 
 **RTL realization Output:** 
 
-![Screenshot (147)](https://github.com/user-attachments/assets/c2db8533-df90-4895-8294-d266d292aed1)
+![Screenshot (146)](https://github.com/user-attachments/assets/456bee65-7ef2-4a73-85d5-cb7e654a8147)
+
 
 
 **RTL**
 
-![Screenshot (147)](https://github.com/user-attachments/assets/d9f16594-be6c-41a5-be32-716440263345)
+![Screenshot (147)](https://github.com/user-attachments/assets/d8d797dd-2c62-456a-83b5-5e9c71988e7a)
+
+
 
 
 **Result:**
